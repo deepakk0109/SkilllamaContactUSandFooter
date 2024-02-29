@@ -7,7 +7,12 @@
     color: white;
   }
 }
-
+.contact-footer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .footerContainer {
   height: auto;
   background-color: #fb7a03;
